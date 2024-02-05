@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+DESCRIPTION DE LA FORMATION test
 
 ## Instructions
 
