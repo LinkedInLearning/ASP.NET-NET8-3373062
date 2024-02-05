@@ -1,6 +1,6 @@
-# Nom final de la formation
+# L'essentiel d'ASP.NET Core pour .NET 8
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L'essentiel d'ASP.NET Core pour .NET 8`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
@@ -27,7 +27,7 @@ La branche master correspond au code à la fin de la formation.
 
 ### Formateur
 
-**Nom du formateur** 
+**Hamida Rebai ** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
