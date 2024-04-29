@@ -32,8 +32,8 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-8
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFGmJAzJDbFBw/learning-public-crop_675_1200/0/1713350315751?e=2147483647&v=beta&t=fuLXGj3NpoKONJuGnB7kxHltVRslmM_C3XS8tCZMcvQ
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/hamida-rebai
 
 [1]: # (End of FR-Instruction ###############################################################################################)
