@@ -1,0 +1,6 @@
+@EvaluationProduit.MinimalAPI_HostAddress = http://localhost:5195
+
+GET {{EvaluationProduit.MinimalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

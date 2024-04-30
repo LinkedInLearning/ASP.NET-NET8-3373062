@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "amcbsL1eP5+/SJlWRDwOl5UD+BdDBbunv3rrt8vIv6nKVR/64GMERPmQx+IaCweo9K0QZTbo8EopWPdjVEwyRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\didou\\Documents\\CoursLinkedin-ASP8\\CodeSources\\CHAPITRE10_VIDEO10_04\\EvaluationProduit\\EvaluationProduit.MVC\\EvaluationProduit.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.features\\8.0.1\\microsoft.extensions.features.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
