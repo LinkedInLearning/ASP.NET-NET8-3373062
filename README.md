@@ -13,9 +13,10 @@ Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pou
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - Visual Studio 2022
+   - Visual Studio Code
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+    
 
 
 ### Formateur
