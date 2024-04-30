@@ -1,0 +1,7 @@
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE05_05_01\EvaluationProduit.MVC\EvaluationProduit.MVC\obj\Release\net8.0\linux-x64\PubTmp\Out\EvaluationProduit.MVC
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE05_05_01\EvaluationProduit.MVC\EvaluationProduit.MVC\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE05_05_01\EvaluationProduit.MVC\EvaluationProduit.MVC\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE05_05_01\EvaluationProduit.MVC\EvaluationProduit.MVC\obj\Release\net8.0\linux-x64\PubTmp\Out\EvaluationProduit.MVC.dll
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE05_05_01\EvaluationProduit.MVC\EvaluationProduit.MVC\obj\Release\net8.0\linux-x64\PubTmp\Out\EvaluationProduit.MVC.deps.json
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE05_05_01\EvaluationProduit.MVC\EvaluationProduit.MVC\obj\Release\net8.0\linux-x64\PubTmp\Out\EvaluationProduit.MVC.runtimeconfig.json
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE05_05_01\EvaluationProduit.MVC\EvaluationProduit.MVC\obj\Release\net8.0\linux-x64\PubTmp\Out\EvaluationProduit.MVC.pdb
