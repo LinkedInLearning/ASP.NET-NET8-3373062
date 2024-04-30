@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\didou\\Documents\\CoursLinkedin-ASP8\\CodeSources\\CHAPITRE12_VIDEO12_02\\AspireAppDemo\\AspireAppDemo.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireAppDemo.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AspireAppDemo.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\didou\\Documents\\CoursLinkedin-ASP8\\CodeSources\\CHAPITRE12_VIDEO12_02\\AspireAppDemo\\AspireAppDemo.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\didou\\Documents\\CoursLinkedin-ASP8\\CodeSources\\CHAPITRE12_VIDEO12_02\\AspireAppDemo\\AspireAppDemo.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didou\\Documents\\CoursLinkedin-ASP8\\CodeSources\\CHAPITRE12_VIDEO12_02\\AspireAppDemo\\AspireAppDemo.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didou\\Documents\\CoursLinkedin-ASP8\\CodeSources\\CHAPITRE12_VIDEO12_02\\AspireAppDemo\\AspireAppDemo.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspireAppDemo.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AspireAppDemo.Web.props",
+      "PackagePath": "build\\AspireAppDemo.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AspireAppDemo.Web.props",
+      "PackagePath": "buildMultiTargeting\\AspireAppDemo.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AspireAppDemo.Web.props",
+      "PackagePath": "buildTransitive\\AspireAppDemo.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,13 @@
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\bin\Debug\net8.0\AspireAppDemo.ServiceDefaults.deps.json
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\bin\Debug\net8.0\AspireAppDemo.ServiceDefaults.dll
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\bin\Debug\net8.0\AspireAppDemo.ServiceDefaults.pdb
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.AssemblyInfo.cs
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.sourcelink.json
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.dll
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\refint\AspireAppDemo.ServiceDefaults.dll
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\AspireAppDemo.ServiceDefaults.pdb
+C:\Users\didou\Documents\CoursLinkedin-ASP8\CodeSources\CHAPITRE12_VIDEO12_02\AspireAppDemo\AspireAppDemo.ServiceDefaults\obj\Debug\net8.0\ref\AspireAppDemo.ServiceDefaults.dll

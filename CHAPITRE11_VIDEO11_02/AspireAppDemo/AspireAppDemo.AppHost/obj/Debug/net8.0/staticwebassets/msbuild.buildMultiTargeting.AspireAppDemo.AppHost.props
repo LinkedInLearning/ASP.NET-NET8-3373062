@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspireAppDemo.AppHost.props" />
+</Project>
