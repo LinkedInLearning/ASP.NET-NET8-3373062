@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/UqYiorqr5BRfr5FScySJhbKP3ZMLEXn4sfSZ5TbZv5dWurUb/A1L/9Kn2Ymm3j+9fTh4kg5y+DHaz1sJYpnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\didou\\Documents\\CoursLinkedin-ASP8\\CodeSources\\CHAPITRE11_VIDEO08_01\\EvaluationProduit\\EvaluationProduit.MVC\\EvaluationProduit.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\didou\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.1\\microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.1\\microsoft.aspnetcore.components.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.1\\microsoft.aspnetcore.components.analyzers.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.1\\microsoft.aspnetcore.components.forms.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\microsoft.aspnetcore.components.quickgrid.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter\\8.0.1\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.1\\microsoft.aspnetcore.components.web.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.1\\microsoft.aspnetcore.metadata.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.1\\microsoft.entityframeworkcore.analyzers.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.options\\8.0.1\\microsoft.extensions.options.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.jsinterop\\8.0.1\\microsoft.jsinterop.8.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,57 @@
+﻿@model EvaluationProduit.MVC.Models.ProduitModel
+
+@{
+    ViewData["Title"] = "Supprimer";
+}
+
+<h1>Supprimer</h1>
+
+<h3>Êtes-vous sûr de vouloir supprimer ceci</h3>
+<div>
+    <h4>ProduitModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nom)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateCreation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DateCreation)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MoyenneEvaluation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MoyenneEvaluation)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Prix)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Prix)
+        </dd>
+    </dl>
+    @Html.ActionLink("Supprimer", "SupprimerProduit", new { id = Model.Id })
+    @Html.ActionLink("Retour", "RedirectionVersIndex")
+    @*<form asp-action="SupprimerProduit">
+            <input type="submit" value="Supprimer" class="btn btn-danger" /> |
+            <a asp-action="Index">Retour</a>
+        </form>*@
+</div>
